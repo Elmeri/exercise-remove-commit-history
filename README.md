@@ -1,5 +1,6 @@
 # Welcome to the Remove Commit History exercise!
 
+a
 This exercise checks your knowledge on removing a commit from the git history of a repository. It is automatically graded via a workflow once you have completed the instructions.
 
 ## About this exercise
